@@ -85,6 +85,8 @@ Our projects are community-built and welcome collaboration. 👍 Be sure to see 
 
 <p style="clear:both;">
 
+<a href ="https://meshery.io/community/meshmates"><img alt="MeshMates" src="https://meshery.io/assets/images/logos/meshmate-light.svg" style="margin-right:36px; margin-bottom:7px;" width="140px" align="left" /></a>
+
 <h3>Find your MeshMate</h3>
 
 <p>MeshMates are experienced community members, who will help you learn your way around, discover live projects, and expand your community network. Connect with a Meshmate today!</p>
